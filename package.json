@@ -1,0 +1,24 @@
+{
+  "name": "dataocean",
+  "version": "0.0.1",
+  "description": "2nd version of datalake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajpraba1/dataocean.git"
+  },
+  "keywords": [
+    "redis",
+    "datalake",
+    "bigdata"
+  ],
+  "author": "raj, aswin, jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajpraba1/dataocean/issues"
+  },
+  "homepage": "https://github.com/rajpraba1/dataocean#readme"
+}
